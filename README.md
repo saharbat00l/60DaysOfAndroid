@@ -56,7 +56,7 @@ Day35_RoomDatabasePractice/
 
 1. **Fork this repo**
 2. Clone your fork locally:
- ```bash
+
  git clone https://github.com/your-username/60-Days-of-Android-Development.git
  cd 60-Days-of-Android-Development
 
